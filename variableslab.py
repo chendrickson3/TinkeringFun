@@ -9,3 +9,4 @@ power = work/time
 print("power:",power)
 print(type(power))
 
+# it's tuesday!!
